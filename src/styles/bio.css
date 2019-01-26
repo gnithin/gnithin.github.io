@@ -1,0 +1,38 @@
+.bio-body-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    overflow-y: scroll;
+}
+
+.bio-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    /* border: 1px solid #000; */
+    margin: 5px 20px;
+    justify-content: space-around;
+}
+
+.card {
+    padding: 10px 20px;
+    border-left: 5px solid #000;
+}
+
+.card-main-header {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.card-header {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.card-content {
+    padding: 5px 0px;
+}
+
+.card-content-header {
+    font-weight: bold;
+}
