@@ -16,7 +16,7 @@ export default class Bio extends Component {
                             Current Status
                         </div>
                         <div className="card-content">
-                            Senior Sotware Development Engineer, Media.Net, Pune
+                            Senior Sotware Development Engineer, Media.Net, Pune, India
                         </div>
                     </div>
                     <div className="card">
@@ -28,6 +28,17 @@ export default class Bio extends Component {
                             - Graduated from Pune University with a Bachelor's Degree in Computer Engineering (B.E 2010-14).<br />
                             - Working as a software-dev since 2014, at multiple companies in Pune, India.<br />
                             - Love to work on interesting problems and write (or attempt to) clean code (client-side, server-side or anything else :).<br />
+                        </div>
+                    </div>
+                    <div className="card">
+                        <div className="card-header">
+                            Programming Languages/Frameworks I like
+                        </div>
+                        <div className="card-content">
+                            - Golang <br />
+                            - Python <br />
+                            - Objective-C - iOS <br />
+                            - JavaScript - React-JS <br />
                         </div>
                     </div>
                     <div className="card">
