@@ -27,8 +27,7 @@ export default class Bio extends Component {
                             - Finished schooling from Kendriya Vidyalaya(CBSE).<br />
                             - Graduated from Pune University with a Bachelor's Degree in Computer Engineering (B.E 2010-14).<br />
                             - Working as a software-dev since 2014, at multiple companies in Pune, India.<br />
-                            - Love to work on interesting problems and write (or attempt to) clean code.<br />
-                            - Built server-side solutions in PHP/Python/Go(GCE), forayed into the front-end, building websites with react-js and iOS apps in Objective-C.<br />
+                            - Love to work on interesting problems and write (or attempt to) clean code (client-side, server-side or anything else :).<br />
                         </div>
                     </div>
                     <div className="card">
