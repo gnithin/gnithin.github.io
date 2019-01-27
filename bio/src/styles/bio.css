@@ -9,7 +9,6 @@
     display: flex;
     flex-direction: column;
     flex-grow: 1;
-    /* border: 1px solid #000; */
     margin: 5px 20px;
     justify-content: space-around;
 }
@@ -35,4 +34,8 @@
 
 .card-content-header {
     font-weight: bold;
+}
+
+a, a:active {
+    color: #000;
 }
