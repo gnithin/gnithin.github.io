@@ -36,10 +36,11 @@ export default class Bio extends Component {
                             Public Profiles
                         </div>
                         <div className="card-content">
-                            - Github<br />
-                            - StackOverflow<br />
-                            - Twitter<br />
-                            - LinkedIn <br />
+                            - <a href="https://github.com/gnithin" target="_blank"> Github </a><br />
+                            - <a href="https://stackoverflow.com/users/1518924/kamehameha" target="_blank"> StackOverflow </a><br />
+                            - <a href="https://twitter.com/kamehameha_dbz" target="_blank"> Twitter </a><br />
+                            - <a href="https://www.linkedin.com/in/gnithin/" target="_blank"> LinkedIn </a> <br />
+                            - <a href="mailto:nithin.linkin@gmail.com" target="_blank"> Email </a><br />
                         </div>
                     </div>
                     <div className="card">
