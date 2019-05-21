@@ -68,6 +68,7 @@ export default class Bio extends Component {
                             <div className="card-content-header">
                                 Fav Books
                             </div>
+                            - A Thousand Splendid Suns - Khaled Hosseini<br />
                             - Foundation - Isaac Asimov<br />
                             - Sapiens: A Brief History of Humankind - Yuval Noah Harari<br />
                             - The Ancient Art of Stoic Joy -  William B Irvine<br />
