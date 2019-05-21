@@ -35,10 +35,10 @@ export default class Bio extends Component {
                             Programming Languages/Frameworks I like
                         </div>
                         <div className="card-content">
+                            - JavaScript - React-JS <br />
                             - Golang <br />
                             - Python <br />
                             - Objective-C - iOS <br />
-                            - JavaScript - React-JS <br />
                         </div>
                     </div>
                     <div className="card">
