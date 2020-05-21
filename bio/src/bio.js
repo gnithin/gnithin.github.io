@@ -35,7 +35,7 @@ export default class Bio extends Component {
 
                     <div className="card">
                         <div className="card-header">
-                            <a href="./nithin-gangadharan.pdf" target="_blank">Resume (Pdf)</a>
+                            <a href="./nithin-gangadharan.pdf" target="_blank">Resume (pdf)</a>
                         </div>
                     </div>
 
@@ -48,7 +48,7 @@ export default class Bio extends Component {
                             - Finished schooling from Kendriya Vidyalaya (CBSE).<br />
                             - Graduated from Pune University with a Bachelor's Degree in Computer Engineering (B.E 2010-14).<br />
                             - Worked as a software-dev since 2014, at multiple companies in Pune, India.<br />
-                            - Commenced MS in CS, at Northeastern University, from Sept 2019. <br />
+                            - Pursuing MS in CS, at Northeastern University, from Sept 2019. <br />
                             - Loves to work on interesting problems and write (or attempt to) clean code.<br />
                             - Interested on working across the stack; client-side, server-side or anything else :) <br />
                         </div>
@@ -60,8 +60,8 @@ export default class Bio extends Component {
                         </div>
                         <div className="card-content">
                             - JavaScript - React-JS <br />
-                            - Golang <br />
                             - Python <br />
+                            - Golang <br />
                             - Objective-C - iOS <br />
                         </div>
                     </div>
@@ -72,9 +72,9 @@ export default class Bio extends Component {
                         </div>
                         <div className="card-content">
                             - <a href="https://github.com/gnithin" target="_blank" rel="noopener noreferrer"> Github </a><br />
+                            - <a href="https://www.linkedin.com/in/gnithin/" target="_blank" rel="noopener noreferrer"> LinkedIn </a> <br />
                             - <a href="https://stackoverflow.com/users/1518924/kamehameha" target="_blank" rel="noopener noreferrer"> StackOverflow </a><br />
                             - <a href="https://twitter.com/kamehameha_dbz" target="_blank" rel="noopener noreferrer"> Twitter </a><br />
-                            - <a href="https://www.linkedin.com/in/gnithin/" target="_blank" rel="noopener noreferrer"> LinkedIn </a> <br />
                             - <a href="mailto:nithin.linkin@gmail.com" target="_blank" rel="noopener noreferrer"> Email </a><br />
                         </div>
                     </div>
@@ -84,9 +84,9 @@ export default class Bio extends Component {
                             Hobbies
                         </div>
                         <div className="card-content">
-                            - Likes to go on a run.<br />
                             - Loves Metallica.<br />
-                            - Enjoys reading a novel, occasionally. <br />
+                            - Likes to go for a run.<br />
+                            - Enjoys reading a novel, occasionally.<br />
                             <br />
                             <div className="card-content-header">
                                 Fav Bands
@@ -99,8 +99,7 @@ export default class Bio extends Component {
                                 Fav Books
                             </div>
                             - A Thousand Splendid Suns - Khaled Hosseini<br />
-                            - Foundation - Isaac Asimov<br />
-                            - Sapiens: A Brief History of Humankind - Yuval Noah Harari<br />
+                            - Our Moon Has Blood Clots - Rahul Pandita<br />
                             - The Ancient Art of Stoic Joy -  William B Irvine<br />
                         </div>
                     </div>
